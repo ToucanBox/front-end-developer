@@ -17,7 +17,7 @@ Our UX designer has created a sample design, which uses our existing CSS styles:
 ---
 
 #### What we would like you to do
-- Analyse the existing page, tell us what you think
+- Analyse the design, tell us what you think
 - Implement a prototype in HTML/CSS/JS
 - Record the steps of your process and be prepared to discuss what you did along the way
 
@@ -49,6 +49,19 @@ This guide assumes you have the following:
 ##### Tips
 We suggest you use our base stylesheet and add or override your changes, otherwise everything is completely up to you. We're curious to see how you structure your work.
 
-Information about our base styling can be found [here](https://www.toucanbox.com/styles)
+Information about our base styling can be found [here](https://www.toucanbox.com/styles).
 
 
+##### Text for page
+
+- Australian Bowl
+- Build a bowl and decorate it using inspiration drawn from traditional Aboriginal art.
+- Shipped: 2018-06-22
+- Flower Bouquet
+- Make a bunch of flowers to give to someone special, and grow a bean plant at home.
+- Shipped: 2018-06-08
+- Tie Dye Butterfly
+- Experiment with colour by creating ink patterns on filter paper.
+- Shipped: 2018-05-25
+- Hello from the toucanBox Product Team! We want to get your feedback about your experience with toucanBox.
+- Rating your box will help us send you the best boxes for your child, and, even better, make toucanBox better for everyone!
