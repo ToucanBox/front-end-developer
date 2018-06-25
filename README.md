@@ -1,4 +1,4 @@
-# Candidate Assessment for the UX Product Designer role at toucanBox
+# Candidate Assessment for the Front End role at toucanBox
 
 We’re keen to see how you think, get a feel for your process and give you an opportunity to showcase your skills. To this end, we’ve prepared a brief for a potential real-world design project at toucanBox.
 
@@ -6,33 +6,25 @@ We’re keen to see how you think, get a feel for your process and give you an o
 
 ### Brief
 
-Customers can login to their accounts to do things like updating billing information, pausing their subscription etc. 
+Customers can log in to their accounts to do things like updating billing information, pausing their subscription etc. 
 
-One feature is a page that lists a history of the craft boxes a customer has received. Right now it’s a bit utilitarian, but we think it might be a tremendous opportunity to delight our customers. 
+One feature is a page that lists a history of the craft boxes a customer has received. Customers are then asked to rate the boxes provided. 
 
-Our customers are parents of children aged 3-8, and the children themselves of course! We happen to know that over 70% of our customers access our website on mobile.
-
-An example of two of our business objectives are:
-- Learn more about what our customers like/dislike about our craft boxes
-- Find ways to extend the fun and increase the value of being a toucanBox subscriber
-
-
-![Desktop Screenshot](/desktop.png?raw=true "Desktop Screenshot")
+Our UX designer has created a sample design, which uses our existing CSS styles:
+![Desktop Screenshot](/rate_your_boxes_desktop.png?raw=true "Desktop Screenshot")
 
 
 ---
 
 #### What we would like you to do
 - Analyse the existing page, tell us what you think
-- Quickly sketch some possibilities (user journey, wireframes)
-- Home in on a possible solution and detail the design
-- Implement a prototype of that solution in HTML/CSS/JS
+- Implement a prototype in HTML/CSS/JS
 - Record the steps of your process and be prepared to discuss what you did along the way
 
 #### What we’re looking for
-- ‘Product Thinking’ taking into consideration our customer’s needs, the business objectives and user centred design principles
-- A systematic approach to design challenges
 - Demonstration of HTML/CSS/JS skills
+- Understanding of existing project code and ability to  build on existing parameters
+- A systematic approach to design challenges
 
 ---
 
@@ -56,5 +48,7 @@ This guide assumes you have the following:
 
 ##### Tips
 We suggest you use our base stylesheet and add or override your changes, otherwise everything is completely up to you. We're curious to see how you structure your work.
+
+Information about our base styling can be found [here](https://www.toucanbox.com/styles)
 
 
