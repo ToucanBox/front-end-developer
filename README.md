@@ -23,7 +23,7 @@ Our UX designer has created a sample design, which uses our existing CSS styles:
 
 #### What we’re looking for
 - Demonstration of HTML/CSS/JS skills
-- Understanding of existing project code and ability to  build on existing parameters
+- Understanding of existing project code and ability to build on it
 - A systematic approach to design challenges
 
 ---
