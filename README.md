@@ -38,7 +38,7 @@ This guide assumes you have the following:
 
 
 #### Setting up local development
-- Fork the product-designer repo and clone it locally
+- Fork the front-end-developer repo and clone it locally
 - Navigate to the repo’s directory
 - Run the `bundle install` command to download and resolve the rack dependency.
 - To run your site locally and view any modifications run `rackup` .
