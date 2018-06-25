@@ -49,7 +49,7 @@ This guide assumes you have the following:
 - Fork the product-designer repo and clone it locally
 - Navigate to the repo’s directory
 - Run the `bundle install` command to download and resolve the rack dependency.
-- To run your site locally and view any modifications run `rackup` 
+- To run your site locally and view any modifications run `rackup` .
 
 ---
 
